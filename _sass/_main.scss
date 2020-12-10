@@ -358,3 +358,22 @@ h1 {
         font-size: 32px;
 	}
 }
+
+/*--- Drop Down --------------------------------------------------------------*/
+
+.dropdown-content {
+	text-align: center;
+	display: none;
+	position: absolute;
+	left: -10px;
+	right: -10px;
+}
+
+.dropdown {
+	text-align: center;
+	margin: auto;
+	position: relative;
+	display: list-item;
+  }
+
+.dropdown:hover .dropdown-content {display: block;}

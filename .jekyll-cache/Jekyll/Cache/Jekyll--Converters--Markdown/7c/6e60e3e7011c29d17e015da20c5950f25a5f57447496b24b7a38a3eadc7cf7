@@ -1,0 +1,10 @@
+I"¤<h1>USE</h1>
+<p><img src="\images\hAn9tZYrb5.gif" alt="Example" /></p>
+<p>
+This lets you save lists of URLs as . Tabs files then open them later with you default browser. For firefox the addon is in the addon store <a href="https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-to-tabs-files/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search" target="_blank">Here</a>. For Chrome, you can install it directly from the source code on GitHub. You then associate the .tabs format with the BrowserSaver executable.
+</p>
+
+<center>
+<p><a href="https://github.com/Zabakes/export-tabs-urls" target="_blank">Download from github</a></p>
+</center>
+:ET
