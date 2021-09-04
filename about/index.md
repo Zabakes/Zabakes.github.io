@@ -4,12 +4,12 @@ title: About
 ---
 
 <p>
-My name is Zachary Colimon. I'm currently a sophomore CoE at the University of Pittsburgh. I'm also working as a hardware engineer at ZeroDK a startup trying to improve oral hygiene habits. This site is a dump of projects I work on. I normally update it whenever I'm looking for new internships/jobs :).
+My name is Zachary Colimon. I'm currently a junior CoE at the University of Pittsburgh. I'm also working as a hardware engineer at ZeroDK a startup trying to improve oral hygiene habits. This site is a collection of projects I've worked on. I normally update it whenever I'm looking for new internships/jobs.
 </p>
 
 <hr>
 <p>
-<embed src="https://docs.google.com/document/d/e/2PACX-1vRAvKAbTC8AjDLbx0S5TZiLpqZfZBpbRh0uZQB-BlSxnP6EbBhE-WNC0WyAfpN49_b9cfCauDToj1dk/pub?embedded=true" width="100%" height='1500' >
+<iframe src="https://onedrive.live.com/embed?cid=943E73C15B68195F&resid=943E73C15B68195F%212251&authkey=AEvTImKs8NFnExY&em=2" width=100% height=1050 frameborder="0" scrolling="no"></iframe>
 </p>
 <hr>
 <hr>
