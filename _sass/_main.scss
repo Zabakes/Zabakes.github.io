@@ -233,7 +233,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
     
     a:hover{
         color: lighten($base-color,20);
-    }
+    } 
 }
 
 header .entry-meta {
@@ -345,6 +345,12 @@ body {
 	background-color: $body-color;
     margin-top: 0px + $doc-line-height;
     font-size: 0px + $doc-font-size;
+
+	.img-container {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+      }
 }
 
 /*--- HEADINGS --------------------------------------------------------------*/
