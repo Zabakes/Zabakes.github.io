@@ -6,3 +6,9 @@ sitemap: false
 @import "main";
 @import "syntax";
 @import "grid";
+
+.img-container {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
