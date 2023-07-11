@@ -4,7 +4,7 @@ title: About
 ---
 
 <p>
-My name is Zachary Colimon. I'm currently a senior CoE at the University of Pittsburgh. This site is a collection of projects I've worked on. I normally update it whenever I'm looking for new internships/jobs.
+My name is Zachary Colimon. I just graduated from the University of Pittsburgh with a B.S. in Computer Engineering. This site is a collection of projects I've worked on. I normally update it whenever I'm looking for new internships/jobs.
 </p>
 
 <hr>
